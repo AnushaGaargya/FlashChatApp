@@ -8,6 +8,6 @@
       location = "group:Pods/Pods.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:.gitignore.h">
+      location = "group:.gitignore.md">
    </FileRef>
 </Workspace>
